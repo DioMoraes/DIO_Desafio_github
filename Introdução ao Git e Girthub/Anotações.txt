@@ -1,0 +1,25 @@
+GIT -> COMANDOS
+WIN:
+cd -> Direction, muda pasta em q estamos. Cd\ vai para root
+cd.. -> volta 1 diretorio
+tab completa nome
+Cls – limpa terminal
+Pwd – caminho completo
+Dir -> lista pastas
+Mkdir – make directory – cria pasta
+Echo – retorna msg no terminal – símbolo “>” redireciona fluxo, assim, echo hello> hello.txt cria arquivo contendo a saída da função echo
+Del/rmdir -> del teleta apenas os arquivos dentro do repositório, rmdir deleta o repositório todo
+Rmdir workspace /S /Q – flag s, excluir recursivo(tudo q há dentro) flag Q silencioso(sem perguntar tem certeza¿)
+Git init – inicia repositório(inicia repositório, cria pasta oculta gerencial do git -- .git – para ver usar flag a – ls -a)
+Git add – add repositórios etc – add * pega td no diretório de trabalho
+Git commit – cria commit – git add * git commit -m(flag para colocar selo no commit) -- $ git commit -m "commit inicial"
+
+Git config – global user.email  ---- user.name – configurar primeira vez q usa
+Git status – monitora estagio do arquivo no fluxograma do git
+Mv – move arquivos
+git config --global --unset user.name – zera nickname para alterar
+git remote add origin https://github.com/DioMoraes/livro_receitas.git
+– add origem para onde enviaremos arquivos – origin poderia ser outro nome
+Git remote -v – lista URL cadastradas
+Git push origin master – empurra para github
+Git pull – puxa commit para maquina – usar origin master -
