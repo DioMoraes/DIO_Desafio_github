@@ -1,4 +1,4 @@
-# DIO_Desafio_github
-Primeiro Repositório git/github
+# DIO_Desafio_Git/Github
+Repositório criado para desafio de projeto
 ## Links Úteis
-[sintaxe básica Markdown](https://markdown.net.br/sintaxe-basica/)
+[Sintaxe Básica Markdown](https://markdown.net.br/sintaxe-basica/)
